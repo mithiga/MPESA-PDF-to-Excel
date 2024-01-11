@@ -18,7 +18,7 @@ Before using this script, ensure that you have the following:
 Navigate to a folder within your system where the script will be stored and used, then clone this repository.
 
   ```python
-git clone https://github.com/mithiga/PDF-to-Excel.git
+git clone https://github.com/mithiga/MPESA-PDF-to-Excel.git
 cd PDF-to-Excel
 ```
 ### 2. Open the Jupyter Notebook:
