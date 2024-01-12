@@ -30,8 +30,9 @@ jupyter notebook MPESA-Statement-PDF-to-Excel.ipynb
 - Modify the `file_path`, `output_path`, and `password` variables as needed.
 - Provide the password received from Safaricom.
 - Ensure the input file name matches the actual pdf statement you have
-- Execute each of the two cells in the notebook.
+- Execute each of the cells in the notebook.
 - The notebook will convert the PDF to Excel format using the camelot library and save it using openpyxl and save the output Excel on the same folder.
+- The last cell will format the output to a Pandas Dataframe and also export a formated Excel file.
 
 ## Notes
 - Ensure that you have the necessary permissions to access and decrypt the MPESA statement PDF.
